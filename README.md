@@ -1,4 +1,4 @@
-# !After Detailer
+# !After Detailer (23.8.1) Backup
 
 !After Detailer is a extension for stable diffusion webui, similar to Detection Detailer, except it uses ultralytics instead of the mmdet.
 
